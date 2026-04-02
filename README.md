@@ -1,1 +1,1 @@
-https://github.com/MikeBeloborodov/posmotri_v_okno
+(https://github.com/deadpleyr/posmotri-v-okno-ad)
